@@ -1,7 +1,12 @@
 <h1 align="center">
 	Hi!
-	<img
+	<!-- <img
 		src="https://media.tenor.com/GnQAl7sDut8AAAAi/here-cute.gif"
+		width="40"
+	  /> -->
+	<img
+		class="transparent"
+		src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Sphere_rotating_transparency.gif"
 		width="40"
 	  />
 	I'm Fitzjaymar Jude de Vera Martin
