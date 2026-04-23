@@ -6,8 +6,8 @@
 	  /> -->
 	<img
 		class="transparent"
-		src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Sphere_rotating_transparency.gif"
-		width="40"
+		src="https://i.imgur.com/cL37SYw.gif" 
+		width="25"		
 	  />
 	I'm Fitzjaymar Jude de Vera Martin
 </h1>
